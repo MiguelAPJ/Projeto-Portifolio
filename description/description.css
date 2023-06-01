@@ -68,12 +68,21 @@ body * {
 .container a {
   text-decoration: none;
   font-size: 20px;
+  font-weight: 500;
 
   display: flex;
   align-items: center;
   justify-content: center;
 
   margin-top: 200px;
+}
 
+footer {
+  padding: 24px 0;
+  text-align: center;
+
+  font-size: 14px;
+
+  margin-top: 200px;
 }
 
